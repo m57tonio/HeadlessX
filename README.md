@@ -79,6 +79,18 @@ Important operator setup notes:
       <a href="https://birdproxies.com/t/headlessx"><strong>Try BirdProxies now</strong></a> &nbsp;|&nbsp; <a href="https://discord.com/invite/birdproxies"><strong>Join the Discord</strong></a>
     </td>
   </tr>
+  <tr>
+    <td width="440" align="center" valign="middle">
+      <a href="https://www.swiftproxy.net/?ref=HeadlessX">
+        <img src="assets/swiftproxy.png" alt="Swiftproxy banner" width="420" />
+      </a>
+    </td>
+    <td valign="top">
+      <strong>Swiftproxy</strong> — Reliable residential proxies optimized for HeadlessX automation and anti-bot workflows. Access 80M+ rotating residential IPs across 190+ countries with non-expiring traffic, high anonymity, sticky sessions, and free trials. Get 10% off with code <strong>PROXY90</strong>.
+      <br />
+      <a href="https://www.swiftproxy.net/?ref=HeadlessX"><strong>Try Swiftproxy now</strong></a> &nbsp;|&nbsp; <a href="https://t.me/Swiftproxy_Support"><strong>Contact us</strong></a>
+    </td>
+  </tr>
 </table>
 
 </details>
